@@ -36,6 +36,16 @@ button {
 img {
   width: 8em;
 }
+footer a {
+  position: absolute;
+  bottom: 25px;
+  right: 40px;
+  font-size: 1.8em;
+  color: rgb(50, 50, 50);
+}
+footer a:hover {
+  text-decoration: underline;
+}
 
 #mushrooms {
   display: flex;
